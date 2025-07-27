@@ -1,22 +1,22 @@
 # Remove Razer Synapse 3/4 Bloatware
 A set of scripts to debloat/restore Razer Synapse software without breaking functionality.
 
-⚡ TL-DR:
+TL-DR:
 - Run `disable_razer_synapse_bloatware.bat` as admin, reboot, enjoy.
 
 ## What it does
 *Removes:*
-- ❌ `Razer Game Scanner Service` (game detection bloatware)
-- ❌ `Razer Central Service` (store/ecosystem app)
-- ❌ `RzActionSvc` (overlay features)
-- ❌ Automatic updates and telemetry
-- ❌ Startup programs and background processes
+- `Razer Game Scanner Service` (game detection bloatware)
+- `Razer Central Service` (store/ecosystem app)
+- `RzActionSvc` (overlay features)
+- Automatic updates and telemetry
+- Startup programs and background processes
 
 *Keeps:*
-- ✅ Mouse/keyboard macros (fully functional)
-- ✅ Device profiles and settings
-- ✅ Hardware communication (RzDeviceEngine)
-- ✅ Core Synapse functionality
+- Mouse/keyboard macros (fully functional)
+- Device profiles and settings
+- Hardware communication (RzDeviceEngine)
+- Core Synapse functionality
 
 ## How to use
 ### Quick Start
