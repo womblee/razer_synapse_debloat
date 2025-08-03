@@ -31,7 +31,7 @@ Download both scripts from this repository
 To restore the full functionality of Razer Synapse, you must run `restore_razer_synapse_bloatware.bat`, which is also included in this repository.
 
 ## Script in action
-<img width="679" height="130" alt="image" src="https://github.com/user-attachments/assets/421e9749-bd1f-48a0-a19b-b0df49663ac2" />
+<img width="495" height="157" alt="image" src="https://github.com/user-attachments/assets/2abe74f5-139f-4907-b650-ad718b902d32" />
 
 After running the script, these are the services and processes that are still running.
 
